@@ -1,2 +1,3 @@
 # hello-world
-simple gello world repository
+simple hello world repository
+I am dinesh from India
